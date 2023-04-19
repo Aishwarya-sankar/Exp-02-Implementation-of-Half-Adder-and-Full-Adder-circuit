@@ -76,3 +76,4 @@ endmodule
 
 
 ### Result:
+Therefore,half adder and full adder is verified
