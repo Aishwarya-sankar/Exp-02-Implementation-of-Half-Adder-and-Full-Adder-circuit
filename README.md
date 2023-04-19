@@ -64,9 +64,11 @@ endmodule
 ### Output:
 ### RTL
 ![de exp 3 ](https://user-images.githubusercontent.com/121418444/232856532-b831cbc1-33f3-4d65-a125-d5e5f6df8f29.png)
+![de exp 3](https://user-images.githubusercontent.com/121418444/232956381-d1cb7dc8-7c60-47e0-ac44-3acd93e24137.png)
 
 ### TIMING DIAGRAM
 ![de exp3 td](https://user-images.githubusercontent.com/121418444/232856729-3b9025a8-342a-44d6-ab78-38d14782a5f9.png)
+![de exp wf1](https://user-images.githubusercontent.com/121418444/232956501-e9b9cca6-e516-4338-a103-e8b8906d73ae.png)
 
 
 ### TRUTH TABLE 
